@@ -1,6 +1,6 @@
 # Backend Interface For My CS360 Artificial Intelligence Class
 
-### There is a frontend interface available to check out [here](placeholder_frontend_repo)
+### There is a frontend interface available to check out [here](https://github.com/brighton1101/CS360-Projects-React-Frontend)
 The apps work with one another
 
 ### Inspiration:
